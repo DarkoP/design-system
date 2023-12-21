@@ -1,6 +1,8 @@
 {
 	"name": "html-form-elements",
 	"version": "0.0.1",
+	"author": "DarkoP",
+	"license": "ISC",
 	"private": true,
 	"scripts": {
 		"dev": "vite dev",
